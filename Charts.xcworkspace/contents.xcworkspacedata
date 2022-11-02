@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "container:/Users/m.issa/Downloads/ChartPod/ChartsMabdu.xcodeproj">
+      location = "container:Charts.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:ChartsDemo-iOS/ChartsDemo-iOS.xcodeproj">
